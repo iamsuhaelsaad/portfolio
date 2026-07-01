@@ -1,4 +1,3 @@
-# portfolio
 # Hi there, I'm Md. Suhael Mahmud Saad! 👋
 
 I am a passionate **Web Developer** from Rajshahi, Bangladesh. I love turning complex problems into simple, beautiful, and intuitive digital solutions.
@@ -8,7 +7,7 @@ I am a passionate **Web Developer** from Rajshahi, Bangladesh. I love turning co
 ### 🌐 Connect & Explore
 * **🌍 Portfolio Website:** [iamsuhaelsaad.github.io/portfolio](https://github.io)
 * **💼 LinkedIn:** [Md. Suhael Mahmud Saad on LinkedIn](https://linkedin.com)
-* **✉️ Email:** [Your Email Here]
+* **✉️ Email:** [contact@suhaelsaad.com]
 
 ---
 
