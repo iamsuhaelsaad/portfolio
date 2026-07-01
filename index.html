@@ -459,10 +459,10 @@
         </a>
       </div>
     </div>
-    <form class="reveal" onsubmit="event.preventDefault(); alert('Message sent! (connect this form to a backend or service like Formspree)');">
-      <input type="text" placeholder="Your Name" required>
-      <input type="email" placeholder="Your Email" required>
-      <textarea placeholder="Your Message" required></textarea>
+    <form class="reveal" action="https://formspree.io/f/mzdljyeo" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email" required>
+      <textarea name="message" placeholder="Your Message" required></textarea>
       <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Send Message</button>
     </form>
   </div>
