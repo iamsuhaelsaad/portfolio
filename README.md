@@ -5,7 +5,7 @@ I am a passionate **Web Developer** from Rajshahi, Bangladesh. I love turning co
 ---
 
 ### 🌐 Connect & Explore
-* **🌍 Portfolio Website:** [https://iamsuhaelsaad.github.io/portfolio/](https://github.io)
+* **🌍 Portfolio Website:** [https://iamsuhaelsaad.github.io/portfolio/](https://github.com)
 * **💼 LinkedIn:** [Md. Suhael Mahmud Saad on LinkedIn](https://linkedin.com)
 * **✉️ Email:** [contact@suhaelsaad.com]
 
