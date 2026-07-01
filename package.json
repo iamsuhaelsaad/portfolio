@@ -1,0 +1,24 @@
+{
+  "name": "saad-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Md. Suhael Mahmud Saad - Web Developer from Rajshahi, Bangladesh",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -o",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsuhaelsaad/portfolio.git"
+  },
+  "keywords": ["portfolio", "web-developer", "speed-insights"],
+  "author": "Md. Suhael Mahmud Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsuhaelsaad/portfolio/issues"
+  },
+  "homepage": "https://github.com/iamsuhaelsaad/portfolio#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
