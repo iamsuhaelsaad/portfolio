@@ -5,8 +5,8 @@ I am a passionate **Web Developer** from Rajshahi, Bangladesh. I love turning co
 ---
 
 ### 🌐 Connect & Explore
-* **🌍 Portfolio Website:** [https://iamsuhaelsaad.github.io/portfolio/](https://github.com)
-* **💼 LinkedIn:** [Md. Suhael Mahmud Saad on LinkedIn](https://linkedin.com)
+* **🌍 Portfolio Website:** [Md. Suhael Mahmud Saad On Github](https://iamsuhaelsaad.github.io/portfolio/)
+* **💼 LinkedIn:** [Md. Suhael Mahmud Saad on LinkedIn](https://www.linkedin.com/in/md-suhael-mahmud-saad-90575014a)
 * **✉️ Email:** [contact@suhaelsaad.com]
 
 ---
@@ -22,8 +22,8 @@ I am a passionate **Web Developer** from Rajshahi, Bangladesh. I love turning co
 
 ### 📊 GitHub Stats
 
-![Suhael's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+![Suhael's GitHub Stats](https://iamsuhaelsaad.github.io/portfolio/)
+![Top Langs](https://iamsuhaelsaad.github.io/portfolio/)
 
 ---
 
